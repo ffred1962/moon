@@ -1,6 +1,6 @@
 {
-    "name": "src",
-    "short_name": "src",
+    "name": "moon",
+    "short_name": "moon",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
